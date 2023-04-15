@@ -5,5 +5,5 @@ public class TestClass {
 
     }
 
-    //dont wait too
+    //dont  wait
 }
