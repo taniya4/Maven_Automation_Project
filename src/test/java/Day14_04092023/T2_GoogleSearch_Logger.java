@@ -25,5 +25,7 @@ public class T2_GoogleSearch_Logger extends ReusableAnnotations {
         String[] arrayResult = result.split(" ");
         System.out.println("Search number for cricket: " + arrayResult[1]);
         logger.log(LogStatus.INFO,"Search number for cricket: " + arrayResult[1]);
+
+        //testing for github
     }//end of test 2
 }
