@@ -2,5 +2,5 @@ package ResuableLibrary;
 
 public class TestClass {
 
-    //no long island
+    //no long is
 }
